@@ -1,0 +1,501 @@
+Timestamp,Machine_ID,Operator_ID,Engine_Hours,Fuel_Used,Load_Cycles,Idling_Time,Seatbelt_Status,Safety_Alert_Triggered,Operator_Experience_Years,Machine_Load_Weight,Ground_Type,Weather_Condition,Ambient_Temperature,Prev_Task_Completion_Time,Maintenance_Status
+26-05-2025 14:32,EXC005,OP1003,9967.7,2.6,43,33,Not Engaged,No,3.5,5.42,Mud,Foggy,25,59.7,Overdue
+19-06-2025 16:30,EXC002,OP1002,5375.3,22.5,29,41,Not Engaged,Yes,19.9,1.06,Mud,Rainy,28,73.5,Recently Serviced
+23-05-2025 17:54,EXC002,OP1001,6412.2,17.8,11,45,Engaged,Yes,8.5,10.12,Gravel,Rainy,42,62.7,Overdue
+03-06-2025 09:45,EXC002,OP1001,8820.5,8.9,24,28,Not Engaged,No,4,9.91,Mud,Windy,38,70.3,Overdue
+15-06-2025 12:20,EXC001,OP1002,2777.2,3,41,25,Not Engaged,Yes,3.5,10.92,Gravel,Sunny,32,70.2,Due Soon
+06-06-2025 05:10,EXC003,OP1002,14347.5,15.4,29,41,Engaged,No,10.4,6.42,Gravel,Sunny,34,35.7,Recently Serviced
+19-05-2025 18:46,EXC003,OP1002,5008.8,20.2,33,5,Not Engaged,Yes,4.5,18.73,Gravel,Windy,23,84.5,Recently Serviced
+28-05-2025 04:56,EXC001,OP1003,7605.6,10.9,44,66,Engaged,Yes,4.1,19.59,Concrete,Rainy,43,64.6,Overdue
+19-06-2025 07:58,EXC003,OP1001,2766.6,18.1,2,92,Engaged,No,2.9,19.58,Concrete,Sunny,20,22.8,Overdue
+29-06-2025 02:32,EXC002,OP1001,8062.7,19.1,29,101,Engaged,No,15.7,4.59,Mud,Rainy,16,29.9,Overdue
+22-05-2025 08:01,EXC002,OP1001,4379.2,15.2,24,40,Not Engaged,Yes,6,15.05,Gravel,Sunny,39,42.2,Overdue
+27-06-2025 12:04,EXC002,OP1003,4810.1,28.8,39,11,Not Engaged,Yes,5.6,17.29,Sand,Foggy,40,63.7,Due Soon
+20-05-2025 14:16,EXC003,OP1001,1741,4.5,14,44,Not Engaged,Yes,7,16.11,Gravel,Foggy,27,85.8,Due Soon
+19-05-2025 01:53,EXC005,OP1001,7630.9,8.2,13,74,Engaged,No,9.8,13.18,Sand,Rainy,39,37.1,Overdue
+19-06-2025 23:50,EXC003,OP1003,3167,26.1,29,105,Not Engaged,No,3,0.69,Gravel,Rainy,18,38.2,Recently Serviced
+30-06-2025 12:21,EXC003,OP1002,7570.9,3.7,27,71,Not Engaged,Yes,6.6,15.95,Sand,Rainy,28,43.4,Recently Serviced
+29-05-2025 10:15,EXC005,OP1002,14056.1,18.5,50,115,Not Engaged,Yes,13.9,6.44,Mud,Sunny,42,43.3,Overdue
+19-05-2025 18:00,EXC001,OP1002,3932.5,16,7,97,Engaged,Yes,1.5,1.34,Gravel,Foggy,30,69.5,Due Soon
+04-07-2025 09:39,EXC004,OP1002,2443.6,23.7,9,42,Engaged,No,12.8,1.46,Concrete,Windy,18,60,Recently Serviced
+25-06-2025 13:21,EXC002,OP1002,4281.9,9.5,11,98,Engaged,No,8,5.35,Sand,Foggy,20,69.1,Due Soon
+05-07-2025 13:44,EXC002,OP1003,5617.8,17.3,8,85,Not Engaged,No,13.8,11.47,Gravel,Foggy,24,28.6,Recently Serviced
+05-07-2025 19:07,EXC005,OP1002,8402.5,27.5,33,36,Not Engaged,Yes,2.6,4.43,Gravel,Rainy,45,38.8,Recently Serviced
+14-07-2025 09:02,EXC004,OP1003,8763.5,26.5,24,67,Engaged,Yes,8.6,9.94,Gravel,Rainy,35,33.7,Recently Serviced
+09-06-2025 10:19,EXC001,OP1001,12359.6,23.7,7,119,Not Engaged,Yes,3.7,2.45,Sand,Sunny,39,44.6,Recently Serviced
+16-07-2025 06:00,EXC003,OP1003,14491.1,21,28,113,Not Engaged,Yes,8.6,9.44,Gravel,Foggy,33,57.2,Due Soon
+12-07-2025 22:50,EXC005,OP1001,8170.8,11.9,17,6,Engaged,No,9.2,1.27,Sand,Foggy,38,59.8,Overdue
+05-06-2025 07:05,EXC003,OP1001,13753.2,17.7,5,6,Engaged,No,14.5,6.88,Sand,Windy,26,70.4,Overdue
+20-06-2025 20:57,EXC004,OP1003,8922.4,28.7,28,31,Engaged,No,4.6,4.74,Sand,Sunny,41,84.9,Due Soon
+24-05-2025 01:31,EXC001,OP1002,4002.6,23.6,1,17,Engaged,No,10.5,5.63,Mud,Sunny,16,33.3,Overdue
+24-06-2025 01:09,EXC003,OP1002,2205.9,13.2,2,116,Engaged,No,9.6,9.37,Sand,Rainy,27,75.9,Recently Serviced
+12-07-2025 10:06,EXC004,OP1001,3884.6,21.5,17,44,Not Engaged,No,11.6,0.6,Gravel,Sunny,23,83.2,Recently Serviced
+15-06-2025 04:15,EXC003,OP1003,13689,12.4,28,104,Not Engaged,Yes,0.6,7.04,Sand,Sunny,24,70.8,Recently Serviced
+18-05-2025 13:25,EXC001,OP1002,12007.9,17.3,25,50,Engaged,Yes,12.5,5.9,Mud,Sunny,39,89,Due Soon
+10-07-2025 23:42,EXC004,OP1001,1483.4,29.2,39,72,Not Engaged,Yes,6.1,12.44,Concrete,Foggy,35,57.3,Overdue
+05-06-2025 15:03,EXC001,OP1001,4296.3,13.6,12,25,Not Engaged,Yes,3.3,10.05,Concrete,Sunny,22,24.4,Due Soon
+18-05-2025 05:20,EXC001,OP1003,10872.6,21.7,43,117,Not Engaged,Yes,9,4.53,Concrete,Foggy,28,80.2,Recently Serviced
+14-06-2025 07:46,EXC003,OP1002,9009.7,7.5,45,106,Engaged,Yes,17.2,4.13,Sand,Sunny,25,76.8,Overdue
+30-06-2025 11:54,EXC005,OP1001,14745.4,2.6,20,13,Engaged,Yes,4.6,1.34,Concrete,Windy,44,37.8,Recently Serviced
+23-06-2025 17:59,EXC001,OP1002,5751.9,6.2,28,31,Engaged,Yes,1.5,17.67,Mud,Rainy,29,85.8,Overdue
+07-07-2025 13:24,EXC003,OP1002,1349.5,7.5,38,49,Not Engaged,Yes,19.2,6.9,Mud,Rainy,27,28.4,Recently Serviced
+01-07-2025 02:32,EXC005,OP1002,12413,23.1,25,104,Engaged,No,9.5,2.97,Sand,Foggy,36,27.9,Overdue
+07-06-2025 08:45,EXC003,OP1003,6590.2,10.2,35,3,Not Engaged,Yes,12.3,8.94,Sand,Windy,23,58.9,Recently Serviced
+12-06-2025 04:14,EXC003,OP1002,11561.6,3.7,9,38,Not Engaged,No,0.9,12.94,Gravel,Rainy,39,31.4,Recently Serviced
+24-06-2025 17:01,EXC005,OP1003,1603.2,9,47,119,Not Engaged,No,19.6,11.49,Mud,Rainy,38,84.7,Recently Serviced
+19-06-2025 05:24,EXC002,OP1003,10851.2,9.5,37,70,Not Engaged,No,18.5,13.52,Mud,Windy,17,73,Due Soon
+22-05-2025 23:33,EXC003,OP1003,13459.9,22,47,108,Not Engaged,Yes,5.2,1.94,Mud,Rainy,31,37.5,Overdue
+10-06-2025 00:48,EXC002,OP1002,5884.2,17.1,38,79,Engaged,Yes,13.2,9.5,Concrete,Foggy,32,46.5,Recently Serviced
+20-05-2025 01:10,EXC004,OP1003,10755.8,24.4,42,97,Engaged,Yes,18.3,16.29,Gravel,Windy,20,54.6,Recently Serviced
+02-06-2025 12:32,EXC004,OP1002,6211.3,11.7,16,38,Engaged,Yes,9.9,4.6,Mud,Sunny,39,31.9,Due Soon
+13-07-2025 18:46,EXC002,OP1003,9507.8,5,8,10,Not Engaged,No,19.4,10.99,Mud,Foggy,42,83.3,Overdue
+11-07-2025 00:16,EXC003,OP1001,8987.7,29.1,39,87,Engaged,No,0.8,19.47,Mud,Rainy,35,53.6,Due Soon
+17-06-2025 01:12,EXC004,OP1003,13867,27,4,63,Not Engaged,No,18.7,15.97,Gravel,Foggy,42,79.2,Overdue
+15-07-2025 18:13,EXC005,OP1001,9223.8,10.5,25,111,Engaged,No,12.5,11.49,Concrete,Sunny,40,54.7,Overdue
+23-05-2025 01:03,EXC005,OP1003,5850.6,4.8,7,70,Engaged,Yes,2.7,3.4,Sand,Foggy,25,87.4,Due Soon
+22-06-2025 10:54,EXC004,OP1001,6798.3,9.5,22,104,Engaged,No,1.1,7.88,Concrete,Foggy,19,56.6,Overdue
+03-07-2025 12:51,EXC004,OP1001,1776.9,16.1,48,0,Engaged,No,6.4,3.17,Concrete,Windy,41,41.5,Recently Serviced
+22-06-2025 21:36,EXC001,OP1001,2637.8,9.5,12,5,Not Engaged,Yes,2.2,8.68,Gravel,Windy,26,28.6,Recently Serviced
+04-06-2025 01:59,EXC003,OP1003,10085.5,2.4,14,103,Engaged,No,13.6,17.27,Concrete,Foggy,39,65.6,Overdue
+18-05-2025 00:02,EXC005,OP1001,13413.6,22.9,42,20,Not Engaged,No,6.1,11.01,Concrete,Windy,16,50,Overdue
+04-07-2025 07:07,EXC001,OP1003,13814.5,19.9,6,57,Not Engaged,Yes,7.6,1.85,Concrete,Foggy,19,47.9,Recently Serviced
+06-07-2025 02:35,EXC005,OP1003,4582.4,22,6,84,Engaged,No,3,15.96,Sand,Sunny,22,65.7,Recently Serviced
+31-05-2025 11:34,EXC005,OP1002,8528.9,28,49,101,Engaged,Yes,15.6,19.58,Concrete,Windy,42,25.4,Overdue
+20-05-2025 15:31,EXC002,OP1002,12772.4,22.9,11,73,Engaged,No,11.6,8.25,Mud,Sunny,39,78.2,Overdue
+17-05-2025 22:14,EXC004,OP1003,11592.1,14.9,37,13,Not Engaged,Yes,4.9,11.04,Concrete,Rainy,22,49.2,Recently Serviced
+07-07-2025 18:52,EXC002,OP1001,7970.9,5,16,62,Not Engaged,No,8.8,2.57,Mud,Windy,18,70.9,Due Soon
+30-05-2025 05:14,EXC004,OP1001,11047.6,17.7,25,94,Not Engaged,Yes,5.5,8.1,Sand,Rainy,23,78.8,Recently Serviced
+13-06-2025 17:02,EXC003,OP1002,5711.7,5.5,26,1,Not Engaged,No,6.7,8.88,Concrete,Windy,33,45.5,Overdue
+20-06-2025 11:26,EXC003,OP1001,1867.7,23.3,1,13,Not Engaged,No,16.5,11.16,Sand,Foggy,24,43.9,Recently Serviced
+11-06-2025 15:32,EXC005,OP1002,4582.1,21.8,37,72,Not Engaged,No,9.5,10.27,Concrete,Rainy,17,41.4,Recently Serviced
+09-07-2025 13:54,EXC004,OP1003,594.4,24.2,1,60,Engaged,Yes,13.4,19.03,Gravel,Rainy,41,90,Due Soon
+18-05-2025 14:16,EXC005,OP1003,1375.5,9,22,59,Not Engaged,Yes,18.4,5.52,Concrete,Foggy,44,51.3,Overdue
+22-05-2025 11:55,EXC002,OP1003,6555.6,3.8,11,74,Not Engaged,Yes,14.4,18.13,Gravel,Rainy,21,24.8,Recently Serviced
+29-06-2025 17:21,EXC005,OP1001,12140.8,9.8,47,72,Not Engaged,Yes,3.7,15.19,Sand,Rainy,30,65.9,Overdue
+05-06-2025 09:53,EXC004,OP1003,6606.6,22.2,28,64,Not Engaged,Yes,16.1,11.28,Gravel,Sunny,43,53.7,Due Soon
+29-06-2025 20:16,EXC004,OP1001,5269.7,17.1,16,97,Not Engaged,No,15.6,15.91,Mud,Windy,18,59.3,Overdue
+08-07-2025 19:33,EXC004,OP1002,12105.4,23.7,26,62,Not Engaged,No,17.2,1.6,Sand,Sunny,37,49.5,Due Soon
+12-07-2025 00:12,EXC002,OP1001,8312.3,26.3,45,16,Not Engaged,Yes,10.5,14.61,Mud,Foggy,41,52.9,Due Soon
+10-06-2025 09:23,EXC003,OP1001,13713.6,15.1,1,33,Not Engaged,Yes,15.1,10.51,Sand,Sunny,22,63.8,Recently Serviced
+06-07-2025 17:13,EXC004,OP1002,11163.1,29.4,49,98,Engaged,No,3.3,16.03,Gravel,Foggy,22,28.1,Due Soon
+30-06-2025 07:46,EXC001,OP1002,2704.3,18.4,31,21,Not Engaged,No,13.7,8.84,Mud,Rainy,24,44.8,Overdue
+25-06-2025 01:27,EXC002,OP1001,8650.4,28.6,42,105,Engaged,Yes,1.8,8.25,Sand,Rainy,30,61,Overdue
+07-07-2025 00:11,EXC004,OP1002,9176.5,30,41,1,Engaged,Yes,7.1,15.92,Mud,Foggy,38,89.1,Overdue
+10-06-2025 07:27,EXC001,OP1003,12226.5,26.1,46,101,Not Engaged,No,4.3,18.1,Mud,Foggy,27,77.2,Recently Serviced
+11-06-2025 09:25,EXC003,OP1002,990.5,29.7,4,92,Not Engaged,Yes,15.3,13.88,Mud,Sunny,16,63,Recently Serviced
+15-06-2025 11:46,EXC005,OP1001,6101.1,24.4,5,101,Engaged,No,15.7,11,Mud,Windy,32,60.1,Due Soon
+19-05-2025 03:55,EXC003,OP1002,12314.6,5.7,6,71,Engaged,No,9.9,8.43,Mud,Windy,40,57.6,Overdue
+06-07-2025 08:02,EXC004,OP1003,5571.2,2.8,4,100,Not Engaged,Yes,1.8,17.36,Sand,Sunny,26,39.9,Due Soon
+17-06-2025 21:08,EXC001,OP1003,8237.3,26,10,9,Engaged,No,10.2,12.62,Gravel,Windy,37,36.3,Overdue
+01-07-2025 05:04,EXC003,OP1001,7885.6,11.2,25,75,Not Engaged,No,17.3,16.55,Mud,Foggy,44,71.5,Due Soon
+27-06-2025 03:43,EXC005,OP1001,13821.4,13.7,41,17,Not Engaged,Yes,6,12.26,Concrete,Foggy,37,35.1,Due Soon
+16-07-2025 11:08,EXC001,OP1001,7276.5,6.6,45,83,Not Engaged,Yes,0.7,13.18,Gravel,Sunny,19,73.3,Overdue
+04-06-2025 01:00,EXC001,OP1002,8001.8,26.4,16,66,Engaged,No,4.3,15.8,Concrete,Rainy,45,27.8,Recently Serviced
+08-07-2025 13:06,EXC005,OP1003,9199,16.8,12,87,Engaged,No,16.6,19.61,Sand,Foggy,16,62.8,Recently Serviced
+18-06-2025 05:08,EXC003,OP1003,3296.7,9.6,30,56,Not Engaged,No,0.8,1.47,Sand,Sunny,18,81.8,Recently Serviced
+21-05-2025 14:07,EXC001,OP1002,7024,27.9,14,10,Not Engaged,Yes,16.2,7.39,Sand,Foggy,40,46.9,Overdue
+26-06-2025 07:30,EXC002,OP1002,10245.9,19,11,66,Not Engaged,No,2.5,17.82,Sand,Windy,29,53.6,Overdue
+07-07-2025 08:45,EXC003,OP1003,7184.5,29.7,43,70,Engaged,No,12.6,11.6,Concrete,Foggy,27,57.8,Recently Serviced
+22-06-2025 13:37,EXC004,OP1001,9980.6,26.8,21,21,Not Engaged,No,2.8,1.89,Gravel,Sunny,22,74.5,Recently Serviced
+10-06-2025 11:31,EXC001,OP1002,11953.5,24.5,18,5,Not Engaged,No,15.2,2.15,Mud,Foggy,38,31.9,Recently Serviced
+31-05-2025 20:08,EXC004,OP1003,7234.4,6.5,5,33,Not Engaged,Yes,17.5,12.04,Gravel,Sunny,24,33.5,Recently Serviced
+07-06-2025 14:38,EXC002,OP1001,9318.9,7.5,27,45,Engaged,No,7.2,12.34,Gravel,Foggy,37,44,Due Soon
+29-06-2025 14:25,EXC003,OP1002,11087.6,21.5,31,111,Not Engaged,No,8.8,9.6,Mud,Windy,36,68.9,Due Soon
+09-06-2025 12:36,EXC002,OP1002,3723.2,26.1,35,18,Not Engaged,No,8.3,12.72,Gravel,Sunny,41,47.5,Overdue
+19-05-2025 09:15,EXC003,OP1002,4749.1,22.9,41,94,Engaged,Yes,0.8,8.03,Mud,Foggy,18,84.7,Due Soon
+15-07-2025 22:25,EXC001,OP1001,11635.2,25.6,18,60,Engaged,Yes,10.5,11.01,Sand,Windy,39,84.4,Due Soon
+07-06-2025 02:44,EXC003,OP1001,4469.6,4.3,16,53,Engaged,Yes,7.4,8.07,Mud,Foggy,44,25.7,Overdue
+17-07-2025 01:43,EXC001,OP1003,1523.1,11.3,48,110,Not Engaged,Yes,15.2,13.61,Sand,Sunny,31,76,Recently Serviced
+29-06-2025 14:37,EXC002,OP1003,13181.6,28.2,1,27,Not Engaged,No,1.8,0.88,Concrete,Rainy,38,27.4,Overdue
+30-06-2025 07:25,EXC002,OP1003,3935.3,11.9,25,84,Engaged,Yes,11.5,2.8,Sand,Sunny,19,73.3,Recently Serviced
+09-06-2025 21:27,EXC004,OP1002,5182,29.1,45,88,Engaged,No,13,2.51,Gravel,Sunny,25,81.2,Overdue
+07-07-2025 05:58,EXC004,OP1003,8921.9,2.6,49,117,Not Engaged,Yes,5.2,11.86,Mud,Rainy,42,62.7,Overdue
+23-06-2025 19:54,EXC003,OP1001,14074.8,25.7,18,56,Not Engaged,Yes,6.8,9.45,Concrete,Sunny,17,38.6,Due Soon
+03-07-2025 22:54,EXC005,OP1003,4212,16.8,29,47,Not Engaged,Yes,17.2,18.22,Sand,Rainy,20,76,Recently Serviced
+15-06-2025 03:51,EXC002,OP1002,9784.2,15,45,78,Not Engaged,Yes,19.1,19.05,Gravel,Foggy,15,49.9,Recently Serviced
+29-06-2025 23:09,EXC003,OP1003,3505.9,26.9,5,58,Not Engaged,No,0.9,6.58,Concrete,Sunny,26,60.2,Overdue
+18-06-2025 06:02,EXC002,OP1001,5667,18.6,19,68,Not Engaged,No,12,1.02,Sand,Foggy,16,56.6,Recently Serviced
+29-06-2025 17:29,EXC005,OP1001,9716.7,22.6,24,7,Not Engaged,Yes,16.6,19.92,Concrete,Windy,26,22,Recently Serviced
+11-06-2025 06:51,EXC004,OP1002,7786.9,17.9,8,114,Not Engaged,Yes,6.6,8.96,Mud,Foggy,44,32.6,Due Soon
+15-06-2025 22:53,EXC005,OP1001,5716.7,25.9,39,24,Not Engaged,No,9.5,19.63,Gravel,Windy,42,24.9,Recently Serviced
+16-06-2025 14:28,EXC005,OP1002,3831.7,21.2,1,45,Not Engaged,Yes,14.4,9.42,Sand,Windy,24,32.1,Overdue
+11-06-2025 16:14,EXC003,OP1002,13511.8,21.2,22,118,Engaged,Yes,19.2,12.13,Gravel,Windy,18,87.9,Overdue
+27-05-2025 09:01,EXC001,OP1002,5394.1,10,47,72,Not Engaged,No,6.4,8.83,Mud,Rainy,38,56.2,Due Soon
+16-07-2025 15:54,EXC003,OP1003,1537.4,14.5,17,61,Engaged,Yes,6.3,8.32,Sand,Rainy,20,40,Recently Serviced
+09-07-2025 08:46,EXC003,OP1001,4283.6,9.8,32,120,Not Engaged,No,6.7,18.44,Sand,Foggy,38,25,Overdue
+10-06-2025 01:03,EXC001,OP1001,4949.6,7.3,18,71,Engaged,Yes,2.5,9.13,Mud,Windy,17,85.7,Due Soon
+08-06-2025 02:37,EXC003,OP1001,4682,29,28,76,Not Engaged,Yes,6.8,9.63,Gravel,Sunny,23,81.4,Due Soon
+07-06-2025 03:19,EXC003,OP1002,11285.2,9.3,46,54,Not Engaged,No,3.8,15.94,Sand,Windy,27,61.5,Overdue
+10-07-2025 19:17,EXC003,OP1002,6826.9,18.4,40,76,Engaged,Yes,18.9,5.55,Sand,Sunny,43,41.8,Recently Serviced
+04-06-2025 08:51,EXC001,OP1001,11800,29.5,31,99,Engaged,Yes,19.6,6.08,Concrete,Rainy,36,29,Overdue
+06-07-2025 19:17,EXC002,OP1001,14143.7,26.5,50,79,Engaged,No,17.3,2.51,Sand,Sunny,28,30.7,Recently Serviced
+05-06-2025 23:40,EXC005,OP1001,7955,27.8,33,113,Engaged,Yes,12.3,11.31,Concrete,Windy,30,82.3,Due Soon
+25-06-2025 23:14,EXC001,OP1001,14166.7,24.8,40,23,Not Engaged,No,5.9,15.95,Gravel,Sunny,29,57.7,Due Soon
+08-06-2025 11:35,EXC001,OP1002,6586.1,17.3,43,67,Engaged,No,5.6,2.36,Sand,Sunny,44,39.2,Overdue
+01-07-2025 15:08,EXC005,OP1002,682.8,29.1,47,32,Not Engaged,No,6.8,9.26,Sand,Windy,31,20.6,Due Soon
+25-06-2025 04:27,EXC004,OP1003,6071.2,7.2,11,53,Engaged,Yes,10.9,3.12,Concrete,Rainy,35,82.8,Due Soon
+26-05-2025 07:30,EXC003,OP1001,11670,29,48,55,Not Engaged,Yes,11.6,7.04,Concrete,Foggy,20,81.8,Overdue
+24-05-2025 12:47,EXC003,OP1003,13598.1,3.9,18,92,Engaged,No,13.8,11.34,Concrete,Windy,33,67.6,Overdue
+13-07-2025 18:50,EXC001,OP1002,14466.6,23.3,9,94,Engaged,Yes,17.6,2.59,Mud,Windy,22,86.1,Overdue
+12-06-2025 07:00,EXC002,OP1001,7212.4,5.8,9,40,Not Engaged,Yes,0.7,12.79,Gravel,Windy,15,77.2,Recently Serviced
+11-06-2025 07:49,EXC004,OP1002,5640.6,3.7,32,51,Engaged,Yes,19.7,2.25,Mud,Sunny,33,67.3,Overdue
+01-06-2025 13:40,EXC004,OP1001,4462.7,22.6,17,98,Not Engaged,Yes,14,17.54,Sand,Sunny,18,62.3,Due Soon
+16-06-2025 00:25,EXC005,OP1001,9455.1,7.9,35,0,Not Engaged,No,10.7,1.08,Gravel,Windy,30,70.8,Recently Serviced
+22-06-2025 11:27,EXC001,OP1002,9269.9,12.5,24,72,Not Engaged,Yes,2.6,14.86,Gravel,Foggy,35,51.5,Due Soon
+16-06-2025 17:57,EXC003,OP1001,14281.1,27.7,8,79,Engaged,No,19.4,0.88,Gravel,Rainy,42,75.1,Overdue
+21-05-2025 00:26,EXC002,OP1001,10112.6,24.5,45,5,Engaged,Yes,11.9,11.74,Gravel,Sunny,28,79.9,Due Soon
+31-05-2025 08:16,EXC004,OP1002,9445.3,2.7,10,9,Engaged,Yes,7,14.82,Gravel,Windy,16,89,Recently Serviced
+09-06-2025 12:58,EXC002,OP1002,1789.6,17.2,27,1,Not Engaged,No,17.5,0.69,Gravel,Foggy,25,36.2,Due Soon
+27-05-2025 16:28,EXC001,OP1003,1507.9,22.6,18,53,Engaged,Yes,5.9,18.22,Concrete,Sunny,29,22.5,Overdue
+25-06-2025 05:42,EXC001,OP1003,11697.4,29.7,23,28,Engaged,Yes,8,4.58,Mud,Windy,35,54.6,Overdue
+13-07-2025 22:48,EXC005,OP1002,8242.5,8.7,3,86,Not Engaged,No,5.4,11.26,Mud,Foggy,19,84.9,Due Soon
+25-05-2025 15:04,EXC001,OP1002,1547.8,2.4,43,100,Not Engaged,Yes,4.9,0.86,Sand,Windy,19,63.1,Overdue
+10-07-2025 10:41,EXC004,OP1001,13686.6,16.6,36,3,Engaged,Yes,8.8,4.93,Concrete,Foggy,35,62.6,Overdue
+07-07-2025 03:21,EXC003,OP1002,7434.6,5.3,28,74,Not Engaged,Yes,1.3,16.84,Gravel,Sunny,29,66.6,Due Soon
+11-06-2025 01:57,EXC001,OP1002,8277.3,12.8,27,66,Engaged,Yes,7,18.25,Mud,Foggy,19,28.4,Recently Serviced
+20-05-2025 02:59,EXC005,OP1003,9957.6,14.6,49,51,Engaged,Yes,17.6,0.91,Gravel,Foggy,18,36.5,Due Soon
+16-07-2025 08:30,EXC001,OP1002,12485.9,9.1,40,38,Engaged,Yes,6.9,19.02,Concrete,Rainy,23,42.9,Recently Serviced
+13-06-2025 13:40,EXC001,OP1001,12599.7,18.4,3,101,Not Engaged,No,2.1,17.01,Gravel,Windy,40,42.8,Due Soon
+25-06-2025 01:00,EXC004,OP1001,1812.4,12.6,17,69,Engaged,Yes,6.2,15.72,Sand,Rainy,42,60.6,Recently Serviced
+03-07-2025 15:51,EXC005,OP1003,2638.5,23.5,46,95,Not Engaged,Yes,7.4,9.9,Sand,Windy,21,38.7,Overdue
+19-06-2025 20:11,EXC003,OP1001,2517.7,11.8,9,33,Not Engaged,Yes,1.5,13.05,Mud,Rainy,32,56,Overdue
+21-05-2025 20:12,EXC002,OP1001,5237.8,20.1,26,88,Engaged,No,19.1,5.66,Concrete,Windy,26,33.8,Due Soon
+16-07-2025 08:53,EXC002,OP1001,14878.5,3,18,17,Engaged,Yes,9.4,10.95,Mud,Windy,21,66.8,Overdue
+11-06-2025 10:45,EXC003,OP1002,12217.1,22.6,29,65,Engaged,No,10.6,2.21,Mud,Rainy,31,62.8,Recently Serviced
+16-07-2025 17:41,EXC004,OP1003,5664.5,12.2,44,62,Engaged,No,1.9,18.36,Mud,Foggy,30,39.5,Overdue
+06-06-2025 01:25,EXC004,OP1003,12155.5,16.9,33,64,Not Engaged,Yes,8.6,16.49,Sand,Rainy,29,88.2,Recently Serviced
+16-07-2025 04:58,EXC002,OP1001,1687.7,5.4,24,69,Engaged,Yes,18.2,16.61,Mud,Foggy,17,60.5,Overdue
+23-05-2025 01:05,EXC001,OP1002,14060.1,7.8,45,102,Engaged,Yes,18.8,5.91,Gravel,Rainy,20,39.1,Recently Serviced
+11-07-2025 08:16,EXC003,OP1003,1254.9,21,16,59,Not Engaged,Yes,17.8,9.76,Mud,Sunny,37,36.4,Recently Serviced
+11-07-2025 19:23,EXC004,OP1001,2970.8,2.8,50,78,Engaged,Yes,2.6,14.34,Gravel,Sunny,23,74.4,Due Soon
+19-06-2025 22:30,EXC003,OP1002,12023.9,10.6,24,83,Not Engaged,Yes,2.6,4.87,Concrete,Foggy,35,32.1,Due Soon
+15-07-2025 05:59,EXC004,OP1001,6935.1,19.5,24,63,Not Engaged,No,14.5,9.46,Mud,Sunny,42,32.4,Due Soon
+30-06-2025 18:17,EXC003,OP1001,12962,22,32,90,Engaged,No,7.9,17.57,Sand,Sunny,19,75.4,Due Soon
+26-05-2025 21:04,EXC002,OP1001,12633.6,6.9,8,54,Not Engaged,Yes,13.7,5.41,Sand,Windy,34,21,Due Soon
+28-06-2025 12:41,EXC003,OP1001,6343.8,3.2,49,26,Not Engaged,Yes,1.3,11.33,Sand,Foggy,44,77,Recently Serviced
+30-05-2025 13:33,EXC004,OP1001,14456.9,26.6,10,91,Engaged,No,0.8,19.24,Concrete,Rainy,38,26.5,Overdue
+18-05-2025 19:44,EXC001,OP1003,6963.8,4.2,35,17,Engaged,No,10.2,18.91,Mud,Foggy,26,47.5,Recently Serviced
+16-06-2025 22:24,EXC003,OP1002,10076.3,18,2,67,Engaged,Yes,14.8,11.71,Concrete,Rainy,16,75.5,Due Soon
+08-06-2025 18:08,EXC002,OP1002,11373.4,21.2,35,89,Engaged,Yes,10.2,11.08,Gravel,Windy,37,54.3,Due Soon
+17-07-2025 00:00,EXC002,OP1001,876.5,16.2,30,38,Engaged,No,17,15.12,Sand,Rainy,36,33.5,Overdue
+19-06-2025 09:52,EXC002,OP1003,6575.1,3.7,38,69,Not Engaged,Yes,11.3,4.72,Mud,Rainy,33,81.3,Overdue
+15-07-2025 07:03,EXC005,OP1002,11680.1,9.9,2,69,Not Engaged,Yes,5.1,15.66,Concrete,Foggy,18,59.2,Recently Serviced
+12-06-2025 21:21,EXC002,OP1003,11694.3,25.7,8,23,Engaged,No,3,12.39,Gravel,Foggy,36,52.2,Recently Serviced
+10-07-2025 08:40,EXC005,OP1003,7323.8,25.8,41,38,Not Engaged,No,17.3,11.53,Mud,Sunny,38,87.7,Due Soon
+24-06-2025 23:04,EXC002,OP1003,4862.8,5.9,39,110,Not Engaged,Yes,8.1,17.82,Gravel,Rainy,33,69.1,Due Soon
+14-07-2025 04:20,EXC005,OP1001,6163.6,16.3,20,93,Engaged,Yes,15.2,10.07,Concrete,Rainy,24,51,Overdue
+07-07-2025 06:04,EXC002,OP1001,12298,28.8,19,79,Engaged,No,7.5,11.24,Mud,Foggy,45,77.3,Recently Serviced
+01-07-2025 04:14,EXC004,OP1003,6240.8,16,25,17,Engaged,Yes,4.3,9.24,Gravel,Foggy,21,22.5,Overdue
+23-05-2025 10:32,EXC003,OP1001,10588.3,16.3,33,17,Engaged,Yes,6,16.14,Concrete,Foggy,22,46.6,Overdue
+08-07-2025 06:46,EXC001,OP1002,11845.6,11.8,35,66,Engaged,No,16.3,4.4,Mud,Windy,33,74.8,Due Soon
+10-07-2025 14:13,EXC004,OP1003,9966.9,17.3,30,15,Not Engaged,No,1.4,17.24,Sand,Foggy,22,68.9,Due Soon
+30-05-2025 04:31,EXC001,OP1003,799.2,7.9,35,61,Engaged,No,1.5,13.69,Mud,Rainy,22,79.7,Recently Serviced
+15-07-2025 18:04,EXC003,OP1002,2522.3,5.2,6,58,Not Engaged,Yes,9.6,17.3,Sand,Foggy,45,59.2,Due Soon
+08-06-2025 00:38,EXC005,OP1003,2800.6,28.7,2,51,Not Engaged,Yes,15,3.07,Concrete,Windy,27,82.6,Due Soon
+27-05-2025 07:24,EXC005,OP1001,11265,21.3,43,29,Not Engaged,No,17.7,8.41,Gravel,Sunny,28,74.6,Due Soon
+05-06-2025 09:44,EXC003,OP1002,14897.3,21.7,33,44,Not Engaged,No,1.3,3.59,Gravel,Windy,17,32.7,Overdue
+30-06-2025 01:14,EXC003,OP1002,12363.3,13.8,46,110,Engaged,No,1.3,2.62,Concrete,Rainy,41,24.1,Due Soon
+01-07-2025 00:00,EXC004,OP1003,1162.1,13.3,22,35,Engaged,Yes,2.8,4.16,Concrete,Foggy,21,25,Recently Serviced
+07-06-2025 20:10,EXC004,OP1001,1631,11.6,28,8,Not Engaged,Yes,12.2,16.13,Sand,Sunny,31,76.9,Recently Serviced
+02-07-2025 14:54,EXC004,OP1002,13301.4,27.7,45,73,Engaged,Yes,14.4,10.18,Concrete,Sunny,43,29.5,Overdue
+28-05-2025 00:39,EXC001,OP1002,4695.3,28,37,12,Not Engaged,No,10.4,14.78,Mud,Windy,21,29.2,Overdue
+30-05-2025 08:19,EXC005,OP1001,2893.4,22.6,31,78,Engaged,Yes,7.5,8.68,Concrete,Rainy,25,36.8,Recently Serviced
+02-06-2025 11:41,EXC001,OP1003,6375.7,8.7,3,59,Engaged,No,18.6,19.47,Sand,Rainy,31,49.9,Overdue
+26-05-2025 01:06,EXC002,OP1003,8864.9,8.8,43,112,Engaged,Yes,6.5,18.5,Concrete,Sunny,23,71.7,Due Soon
+04-07-2025 00:24,EXC005,OP1001,2555.2,10.1,27,75,Engaged,No,7.9,10.06,Mud,Foggy,32,60.8,Overdue
+22-06-2025 18:22,EXC001,OP1001,4335.7,27.8,43,27,Not Engaged,Yes,14.3,16.32,Gravel,Windy,16,55.2,Due Soon
+22-06-2025 09:26,EXC005,OP1003,13845.8,7.1,19,31,Not Engaged,No,2.7,10.58,Gravel,Sunny,21,30.2,Due Soon
+30-05-2025 22:36,EXC003,OP1003,2002.4,21.2,4,4,Not Engaged,Yes,17.9,16.38,Mud,Foggy,39,24.1,Overdue
+25-05-2025 11:12,EXC001,OP1002,10400.9,18.9,26,32,Not Engaged,No,13.3,9.45,Sand,Windy,19,48.1,Overdue
+10-07-2025 02:22,EXC001,OP1003,14831.6,26.2,29,66,Not Engaged,Yes,15.4,10.67,Concrete,Windy,19,56.6,Recently Serviced
+13-07-2025 02:07,EXC002,OP1002,7211,27.1,10,43,Not Engaged,Yes,19.7,19.84,Mud,Rainy,35,28.9,Recently Serviced
+22-06-2025 12:07,EXC002,OP1002,1234.9,11.9,30,10,Engaged,Yes,0.8,3.74,Mud,Sunny,30,80.9,Due Soon
+04-07-2025 18:39,EXC002,OP1003,8548.2,5.4,3,24,Not Engaged,Yes,8,3.75,Sand,Foggy,16,51.8,Recently Serviced
+06-07-2025 23:02,EXC004,OP1003,4222.8,5,7,71,Not Engaged,Yes,17.8,15.61,Concrete,Sunny,17,62.7,Recently Serviced
+25-06-2025 09:21,EXC003,OP1002,3596,9.1,3,64,Engaged,Yes,17.3,14.89,Gravel,Sunny,25,44.3,Due Soon
+24-05-2025 12:11,EXC002,OP1001,1682.6,27,45,115,Not Engaged,Yes,10.5,15.96,Gravel,Foggy,32,68.7,Overdue
+15-07-2025 23:16,EXC001,OP1002,3400.5,25.9,36,107,Engaged,Yes,2.8,9.67,Sand,Windy,31,84.5,Recently Serviced
+01-06-2025 17:09,EXC002,OP1002,2959.4,17.4,42,94,Not Engaged,Yes,16.4,8.66,Concrete,Windy,26,71.3,Recently Serviced
+23-06-2025 05:17,EXC003,OP1002,5170.4,22.2,33,80,Engaged,Yes,10.8,18.22,Sand,Rainy,43,45.1,Due Soon
+21-06-2025 03:22,EXC001,OP1001,13812.1,14.8,21,24,Engaged,Yes,17.7,19.38,Mud,Foggy,32,61.7,Recently Serviced
+18-05-2025 23:06,EXC003,OP1002,7545.8,7.3,34,77,Not Engaged,No,3.3,11.66,Gravel,Rainy,21,55.1,Due Soon
+23-06-2025 08:24,EXC004,OP1001,9041.7,20.7,10,106,Not Engaged,No,11.3,15.17,Sand,Foggy,45,29.4,Due Soon
+31-05-2025 04:34,EXC005,OP1002,7208.2,11.2,35,13,Not Engaged,Yes,4.2,1.97,Concrete,Windy,23,45.9,Due Soon
+16-07-2025 01:12,EXC004,OP1003,2325,12.9,33,7,Engaged,No,1.4,1.3,Mud,Foggy,40,20.4,Overdue
+04-06-2025 20:32,EXC004,OP1001,5374.2,27.2,8,44,Not Engaged,Yes,19.8,9.37,Mud,Rainy,33,22.3,Due Soon
+24-06-2025 02:31,EXC001,OP1003,8227.5,18,4,26,Not Engaged,Yes,10.8,12.34,Sand,Rainy,20,23.8,Due Soon
+30-05-2025 20:43,EXC004,OP1002,2982.4,16.4,42,46,Engaged,Yes,5.1,13.06,Gravel,Sunny,41,31.2,Overdue
+23-05-2025 10:44,EXC001,OP1002,2222.9,5.7,17,106,Not Engaged,Yes,11.6,3.73,Concrete,Sunny,34,25.9,Due Soon
+25-05-2025 04:37,EXC005,OP1003,14194,28.4,11,86,Engaged,No,10.6,14.2,Mud,Foggy,19,60.9,Recently Serviced
+04-06-2025 17:01,EXC003,OP1002,5952,17.9,16,77,Engaged,No,1.3,12.7,Gravel,Foggy,23,22.3,Overdue
+03-07-2025 13:32,EXC003,OP1001,12445.4,16.1,5,59,Engaged,No,8.9,5.32,Gravel,Foggy,22,53.8,Overdue
+13-07-2025 23:03,EXC003,OP1003,12897.4,12.4,16,89,Not Engaged,Yes,0.9,9.51,Mud,Rainy,42,82.9,Recently Serviced
+30-06-2025 03:22,EXC003,OP1003,10552.9,29.8,14,3,Not Engaged,No,5.7,11.36,Gravel,Rainy,20,49.1,Recently Serviced
+30-06-2025 18:34,EXC005,OP1001,1598.5,8,49,64,Not Engaged,No,7.8,1.73,Gravel,Sunny,36,78.4,Recently Serviced
+06-07-2025 01:23,EXC005,OP1003,6803.6,23,38,45,Engaged,Yes,1.7,2.56,Sand,Rainy,28,40.7,Recently Serviced
+15-07-2025 10:54,EXC003,OP1003,14666.8,24.1,25,46,Not Engaged,Yes,18.4,6.65,Gravel,Foggy,28,29.7,Overdue
+05-06-2025 12:58,EXC001,OP1002,9128.9,12.3,10,32,Not Engaged,No,14.2,11.15,Gravel,Foggy,16,79.4,Due Soon
+17-06-2025 20:27,EXC003,OP1002,11916,3.3,25,54,Engaged,No,7.6,14.76,Gravel,Rainy,36,31.3,Due Soon
+10-07-2025 08:52,EXC005,OP1001,2846.5,3.2,25,74,Engaged,No,7.1,7.44,Sand,Sunny,18,58.8,Overdue
+10-06-2025 00:39,EXC005,OP1003,13915.4,23.5,41,49,Not Engaged,No,14.4,4.99,Gravel,Sunny,33,72.8,Overdue
+25-05-2025 11:00,EXC004,OP1001,1899.5,13.8,35,103,Not Engaged,Yes,7.2,3.02,Mud,Windy,43,84,Due Soon
+22-05-2025 00:11,EXC003,OP1002,4860.6,25.4,46,75,Not Engaged,No,16.1,5.4,Mud,Windy,24,70.6,Overdue
+16-06-2025 08:17,EXC002,OP1002,7966.7,27,6,64,Engaged,No,10.6,0.83,Mud,Windy,35,33.4,Recently Serviced
+16-07-2025 01:34,EXC003,OP1003,9608.2,9.9,46,1,Engaged,Yes,8.4,9.73,Mud,Foggy,23,58.6,Recently Serviced
+02-07-2025 08:46,EXC002,OP1001,5276.1,23.2,29,21,Not Engaged,Yes,17.8,9.73,Gravel,Windy,44,84,Due Soon
+23-05-2025 10:08,EXC002,OP1002,1007.1,28,41,72,Not Engaged,No,19.3,8.33,Gravel,Rainy,32,33.9,Recently Serviced
+11-06-2025 21:36,EXC002,OP1001,8976.5,18.9,26,1,Engaged,Yes,1,16.81,Mud,Sunny,23,33.4,Recently Serviced
+19-05-2025 08:44,EXC003,OP1002,8680.8,25.9,42,90,Engaged,Yes,16.2,18.51,Gravel,Rainy,42,42.2,Overdue
+09-06-2025 09:19,EXC002,OP1002,9526.4,8.5,20,73,Engaged,Yes,12.3,18.6,Concrete,Sunny,23,58.4,Due Soon
+19-06-2025 20:08,EXC003,OP1002,1221.9,18.9,18,52,Not Engaged,No,8.7,15.64,Gravel,Sunny,21,82.1,Due Soon
+15-06-2025 21:36,EXC001,OP1002,6478.6,8.2,15,54,Not Engaged,No,3.5,11.15,Gravel,Rainy,40,86.7,Due Soon
+28-05-2025 09:24,EXC004,OP1001,1638.9,8,10,116,Not Engaged,No,10.5,12.55,Gravel,Windy,23,53.6,Overdue
+26-05-2025 08:32,EXC005,OP1002,2656.5,3.1,39,111,Not Engaged,Yes,16.3,6.38,Gravel,Windy,40,86.4,Recently Serviced
+08-07-2025 07:56,EXC003,OP1001,8335.6,13.6,20,117,Engaged,Yes,15.4,11.99,Concrete,Sunny,42,24.3,Recently Serviced
+14-07-2025 20:25,EXC002,OP1001,6121.5,23.2,29,119,Engaged,No,14,12.63,Mud,Foggy,15,27.2,Due Soon
+12-07-2025 16:37,EXC003,OP1002,11430,21.8,43,107,Engaged,Yes,7.8,14.72,Gravel,Sunny,31,23.1,Recently Serviced
+24-06-2025 13:34,EXC001,OP1001,6338,29.6,38,105,Not Engaged,Yes,3.9,10.37,Sand,Rainy,29,25.5,Recently Serviced
+30-05-2025 01:28,EXC004,OP1001,4408.3,21.3,8,83,Not Engaged,Yes,5.6,17.6,Sand,Rainy,44,89.8,Overdue
+07-07-2025 06:38,EXC001,OP1003,885.2,15.8,21,65,Engaged,Yes,18,4.62,Gravel,Sunny,41,22.1,Due Soon
+25-05-2025 08:00,EXC003,OP1001,5663,25.9,44,80,Engaged,No,1.4,10.07,Concrete,Windy,17,82.3,Recently Serviced
+01-06-2025 05:27,EXC005,OP1001,10062.7,12.1,26,38,Not Engaged,No,15.2,18.89,Concrete,Foggy,36,44.2,Due Soon
+10-06-2025 11:17,EXC003,OP1001,6125.8,23.3,43,75,Not Engaged,No,9.4,10.18,Mud,Rainy,35,28,Recently Serviced
+01-07-2025 20:10,EXC001,OP1002,9983.6,3.9,13,69,Engaged,No,3.9,7.68,Sand,Foggy,29,32.2,Overdue
+06-07-2025 07:03,EXC005,OP1002,14931,9.5,47,19,Not Engaged,No,3.7,8.28,Concrete,Windy,23,46.5,Due Soon
+11-06-2025 09:50,EXC001,OP1001,1943.9,14.5,43,12,Not Engaged,Yes,1.9,15.48,Sand,Foggy,37,46.7,Recently Serviced
+26-05-2025 21:00,EXC005,OP1001,7515.5,27.6,32,67,Engaged,No,0.9,9.07,Concrete,Windy,44,60.1,Overdue
+10-06-2025 12:01,EXC002,OP1003,11991.8,18.2,39,63,Engaged,No,9.1,17.6,Mud,Rainy,43,60.1,Due Soon
+31-05-2025 04:32,EXC001,OP1001,11031.8,13.9,16,72,Not Engaged,Yes,4.6,16.35,Sand,Rainy,45,47.5,Due Soon
+30-05-2025 16:07,EXC004,OP1003,4300,9.7,50,13,Engaged,No,19.5,13.8,Gravel,Rainy,28,43.2,Due Soon
+26-05-2025 13:50,EXC005,OP1001,3914.9,27.2,34,103,Engaged,Yes,18.6,0.74,Concrete,Sunny,42,22.4,Overdue
+25-06-2025 05:43,EXC005,OP1003,11446.7,19.9,37,74,Engaged,Yes,19.3,12.89,Concrete,Foggy,26,62.2,Recently Serviced
+04-07-2025 19:05,EXC002,OP1002,6923.7,14.8,37,100,Not Engaged,No,12.7,6.79,Mud,Sunny,27,46.6,Due Soon
+24-06-2025 18:52,EXC001,OP1003,8052.9,23,44,6,Not Engaged,Yes,17.5,2.69,Mud,Rainy,39,77.6,Recently Serviced
+20-06-2025 12:54,EXC001,OP1002,2201.9,21.9,26,70,Engaged,Yes,19.4,8.89,Gravel,Windy,20,24.1,Due Soon
+23-06-2025 22:07,EXC004,OP1003,7525.8,12.9,36,83,Not Engaged,Yes,2.3,10.46,Concrete,Rainy,16,58.2,Due Soon
+06-06-2025 05:54,EXC003,OP1002,5514.6,15.2,27,45,Engaged,No,6.3,19.69,Concrete,Foggy,16,21.3,Recently Serviced
+08-07-2025 10:39,EXC001,OP1001,1656.8,19.9,38,59,Not Engaged,Yes,14.7,1.75,Sand,Windy,20,42.2,Overdue
+27-05-2025 01:44,EXC005,OP1003,4658.8,23.3,50,96,Not Engaged,No,5.5,14.4,Gravel,Foggy,45,55.1,Due Soon
+15-06-2025 00:19,EXC005,OP1001,5908.3,27.7,6,70,Not Engaged,Yes,10.1,19.35,Sand,Windy,17,43.8,Overdue
+10-06-2025 18:49,EXC001,OP1002,13582.8,15.1,15,95,Not Engaged,No,18.8,4.82,Sand,Rainy,43,36,Overdue
+27-06-2025 10:12,EXC002,OP1003,3093.6,26.5,32,101,Not Engaged,No,12,15.08,Sand,Rainy,43,80.7,Recently Serviced
+20-06-2025 15:48,EXC003,OP1003,2891.6,28.7,45,30,Not Engaged,No,15.8,12.59,Concrete,Windy,40,64.2,Recently Serviced
+20-06-2025 11:12,EXC001,OP1003,11521.8,22.3,37,57,Not Engaged,Yes,9.9,3.12,Concrete,Sunny,25,71.6,Due Soon
+09-06-2025 09:09,EXC002,OP1001,7223.1,20.3,12,20,Not Engaged,No,12.1,12.23,Mud,Rainy,45,48.9,Recently Serviced
+15-07-2025 06:53,EXC001,OP1002,8903.2,4.8,44,92,Not Engaged,Yes,12.5,12.09,Concrete,Foggy,29,56.5,Due Soon
+07-07-2025 21:57,EXC001,OP1001,6255.4,11.4,6,31,Engaged,Yes,12,16.34,Gravel,Foggy,22,88.6,Recently Serviced
+03-06-2025 22:41,EXC004,OP1001,11572.9,11.4,42,30,Not Engaged,No,7.3,5.9,Sand,Rainy,35,51.2,Overdue
+14-06-2025 17:20,EXC004,OP1001,13754.1,14.4,30,42,Not Engaged,Yes,4.7,5.49,Gravel,Rainy,37,62.8,Overdue
+25-05-2025 09:03,EXC003,OP1002,14776.2,11.3,15,94,Not Engaged,Yes,2.1,8.83,Gravel,Windy,31,64,Due Soon
+29-06-2025 10:25,EXC002,OP1003,8225.6,13,49,82,Not Engaged,No,13.9,3.36,Sand,Windy,41,30,Due Soon
+08-07-2025 09:09,EXC004,OP1002,1324.5,26.1,28,11,Not Engaged,No,1.5,11.89,Concrete,Foggy,36,38.3,Recently Serviced
+16-07-2025 07:58,EXC001,OP1001,5489.9,20.7,10,1,Engaged,No,4.9,12.87,Mud,Foggy,40,47.8,Due Soon
+02-06-2025 01:03,EXC005,OP1002,2461.1,17.8,48,15,Not Engaged,Yes,7.2,16,Sand,Windy,17,64.4,Due Soon
+29-06-2025 13:10,EXC004,OP1001,5326.3,25.9,50,87,Not Engaged,Yes,2.7,13.21,Gravel,Rainy,21,42.9,Due Soon
+26-05-2025 13:24,EXC002,OP1002,10556.4,23.6,15,20,Engaged,No,14.4,15.01,Gravel,Sunny,28,38.8,Due Soon
+01-07-2025 05:12,EXC002,OP1002,2025.9,20.5,38,41,Engaged,Yes,15.6,18.62,Mud,Rainy,42,80.7,Overdue
+19-06-2025 22:44,EXC003,OP1001,10256.7,2.2,15,47,Not Engaged,Yes,12.9,13.69,Gravel,Rainy,38,64.9,Due Soon
+30-05-2025 15:53,EXC005,OP1003,13328.2,19.2,45,81,Not Engaged,No,16.9,3.06,Gravel,Foggy,44,84.9,Recently Serviced
+27-06-2025 18:20,EXC002,OP1002,12303.7,12.2,21,46,Engaged,No,6.4,8.96,Concrete,Sunny,25,51.5,Recently Serviced
+23-06-2025 03:18,EXC002,OP1003,14720.6,24.5,26,34,Engaged,Yes,12.3,6.71,Mud,Windy,34,25,Recently Serviced
+06-06-2025 16:54,EXC005,OP1003,5467.1,18.2,18,106,Engaged,Yes,4.8,12.81,Gravel,Windy,20,75.5,Due Soon
+28-06-2025 07:10,EXC003,OP1003,2947.8,14.8,33,46,Engaged,No,10.6,19.08,Mud,Sunny,34,44.7,Recently Serviced
+16-06-2025 19:10,EXC005,OP1003,13877.1,15.5,37,100,Engaged,Yes,3.1,6.46,Gravel,Rainy,19,76.8,Overdue
+14-06-2025 02:34,EXC001,OP1003,13596,13.7,6,93,Engaged,No,18.4,2.52,Concrete,Sunny,19,31.5,Due Soon
+01-06-2025 06:06,EXC005,OP1002,3495.5,4.3,12,55,Not Engaged,Yes,13.5,9.12,Mud,Sunny,43,41.2,Recently Serviced
+06-06-2025 02:32,EXC002,OP1003,13125.3,6,22,105,Not Engaged,Yes,5.6,10.97,Mud,Foggy,31,35.5,Overdue
+25-05-2025 02:04,EXC004,OP1001,1276.2,27,23,94,Engaged,Yes,17.9,8.51,Sand,Sunny,36,72.4,Due Soon
+08-06-2025 06:22,EXC002,OP1003,4705.3,4.4,24,109,Not Engaged,No,9.7,5.74,Sand,Windy,35,35.2,Recently Serviced
+11-07-2025 17:23,EXC005,OP1001,4023.5,11.1,23,27,Not Engaged,Yes,1.7,13.11,Mud,Rainy,30,56.5,Overdue
+15-06-2025 15:15,EXC002,OP1003,7612.8,24.4,42,82,Not Engaged,Yes,17.9,8.16,Mud,Sunny,42,62.4,Overdue
+08-07-2025 02:20,EXC005,OP1002,6391.5,25.3,39,117,Not Engaged,Yes,18.4,3.34,Sand,Sunny,20,30.7,Recently Serviced
+13-07-2025 12:43,EXC004,OP1001,1222.1,23.4,22,18,Engaged,Yes,9.1,3.16,Concrete,Rainy,27,42.3,Recently Serviced
+16-06-2025 15:51,EXC003,OP1003,7409.5,20.6,30,20,Engaged,Yes,18.7,7.49,Concrete,Sunny,40,89,Overdue
+31-05-2025 10:55,EXC005,OP1002,6344.8,3.8,17,39,Not Engaged,No,9.4,7.19,Sand,Windy,24,88.8,Overdue
+08-07-2025 20:01,EXC004,OP1003,3942.1,8.5,30,88,Engaged,Yes,5.8,3.3,Gravel,Rainy,30,29,Recently Serviced
+18-06-2025 17:16,EXC005,OP1003,7956.6,17.6,38,96,Engaged,No,1.4,0.92,Mud,Windy,16,21.8,Overdue
+11-06-2025 15:00,EXC001,OP1001,5435.6,21.9,38,13,Not Engaged,No,17,3.86,Sand,Sunny,37,81.2,Recently Serviced
+22-05-2025 21:08,EXC005,OP1002,4215.5,19.3,32,32,Engaged,Yes,1,5.56,Concrete,Windy,16,63.9,Overdue
+11-06-2025 15:28,EXC002,OP1003,2673.5,28.7,28,90,Not Engaged,No,9.8,15.88,Sand,Sunny,27,74.2,Overdue
+07-06-2025 10:25,EXC005,OP1002,5442.3,24.1,50,108,Not Engaged,Yes,19.7,14.64,Sand,Sunny,37,35,Overdue
+03-06-2025 21:13,EXC003,OP1002,5392.7,26.5,4,7,Engaged,Yes,14.6,19.84,Concrete,Foggy,19,32.3,Recently Serviced
+30-06-2025 09:56,EXC005,OP1003,1767.6,16.2,42,85,Engaged,Yes,13.9,11.83,Gravel,Foggy,39,86.7,Due Soon
+02-07-2025 18:51,EXC003,OP1003,8563.1,10.5,19,63,Not Engaged,No,10.4,10.3,Concrete,Foggy,15,53,Recently Serviced
+16-06-2025 17:04,EXC003,OP1002,10778.2,17.3,23,100,Engaged,Yes,14.5,1.27,Concrete,Sunny,22,74.5,Due Soon
+16-06-2025 19:55,EXC001,OP1001,8775.1,29.9,35,60,Engaged,No,7.9,10.06,Sand,Windy,18,59.2,Recently Serviced
+16-06-2025 03:35,EXC003,OP1002,7202.5,6.4,33,6,Not Engaged,Yes,13.1,17.15,Sand,Sunny,43,35,Overdue
+18-06-2025 05:46,EXC004,OP1001,9450.9,25,7,35,Engaged,No,2.6,8.67,Concrete,Sunny,35,75.7,Recently Serviced
+15-06-2025 21:45,EXC001,OP1002,3112.3,27.9,26,26,Engaged,No,5,18.76,Sand,Sunny,37,30.4,Due Soon
+26-05-2025 17:25,EXC002,OP1003,9128,15.1,29,17,Engaged,Yes,19.4,3.18,Sand,Windy,24,33.1,Recently Serviced
+11-07-2025 00:43,EXC004,OP1001,14228.7,16.3,27,71,Engaged,Yes,13.2,1.88,Sand,Foggy,29,28.4,Overdue
+26-05-2025 23:58,EXC005,OP1003,1673.4,18.1,11,118,Not Engaged,No,17,4.22,Mud,Foggy,35,24.8,Recently Serviced
+23-06-2025 20:05,EXC002,OP1003,12504.1,20,27,50,Not Engaged,Yes,11.9,12.6,Sand,Foggy,44,85.6,Due Soon
+27-05-2025 18:33,EXC001,OP1003,10494.9,21.5,46,75,Not Engaged,No,12.6,10.28,Concrete,Foggy,17,88.9,Due Soon
+10-07-2025 04:22,EXC005,OP1003,3202.9,21.4,12,58,Not Engaged,Yes,0.8,14.6,Sand,Foggy,28,41.4,Recently Serviced
+20-05-2025 18:44,EXC002,OP1001,7586.7,17.4,22,76,Engaged,Yes,2.6,12.69,Mud,Rainy,32,67.8,Recently Serviced
+07-06-2025 17:40,EXC002,OP1001,2309.3,19.5,6,55,Engaged,Yes,18.7,17.83,Concrete,Sunny,40,68,Overdue
+13-07-2025 18:33,EXC003,OP1002,8979.4,6.9,41,29,Not Engaged,Yes,1.6,17.55,Gravel,Sunny,21,48.3,Overdue
+06-07-2025 21:13,EXC001,OP1001,3908.7,9.8,29,66,Not Engaged,Yes,17.9,6.12,Mud,Foggy,40,71,Overdue
+17-06-2025 00:36,EXC001,OP1003,1019.4,10.6,32,52,Engaged,Yes,19.2,15.78,Mud,Windy,35,83.7,Due Soon
+08-06-2025 06:44,EXC004,OP1001,8296.2,5.7,49,19,Engaged,Yes,1.8,11.3,Sand,Foggy,15,28.7,Due Soon
+18-05-2025 14:35,EXC004,OP1003,12678.1,29.3,5,92,Engaged,Yes,8.5,4.31,Concrete,Rainy,29,39.1,Due Soon
+05-07-2025 23:20,EXC002,OP1001,2011.9,21.7,40,22,Engaged,No,4.1,8.35,Mud,Foggy,17,33,Recently Serviced
+14-07-2025 07:19,EXC004,OP1001,8748.6,9.1,32,108,Engaged,Yes,2.2,5.97,Sand,Sunny,17,25.1,Due Soon
+12-06-2025 21:33,EXC001,OP1003,14091.8,19.3,31,43,Not Engaged,No,8.2,5.88,Sand,Sunny,16,37.3,Due Soon
+23-06-2025 22:03,EXC001,OP1001,10729.1,18,21,37,Not Engaged,No,1.4,11.45,Concrete,Sunny,21,69,Recently Serviced
+28-06-2025 11:51,EXC001,OP1003,13968.2,15.3,45,47,Not Engaged,Yes,5.1,4.33,Mud,Windy,38,25.9,Overdue
+26-06-2025 14:08,EXC002,OP1003,11102.5,20.1,47,105,Engaged,Yes,3.3,3.37,Mud,Rainy,25,54.7,Recently Serviced
+04-07-2025 16:58,EXC005,OP1002,5895.6,2.6,39,58,Not Engaged,No,17,0.95,Mud,Windy,33,76.7,Due Soon
+14-07-2025 14:04,EXC003,OP1001,12964.6,26.4,49,4,Not Engaged,No,11.5,11.31,Gravel,Sunny,40,73.7,Overdue
+24-06-2025 04:55,EXC002,OP1001,9479,10.2,33,90,Engaged,Yes,8.8,4.35,Gravel,Foggy,16,79.5,Due Soon
+02-06-2025 14:09,EXC005,OP1003,12365.5,7,32,76,Engaged,Yes,6.9,6.24,Mud,Rainy,30,77.2,Overdue
+30-05-2025 03:15,EXC004,OP1002,8577.5,22.5,47,92,Engaged,Yes,3,1.46,Concrete,Foggy,40,31.3,Recently Serviced
+03-07-2025 14:06,EXC002,OP1003,6580.7,24.8,8,84,Not Engaged,Yes,6.9,7.35,Concrete,Foggy,15,55.2,Due Soon
+15-07-2025 13:37,EXC005,OP1001,5886.5,2.6,7,117,Engaged,No,4.8,1,Mud,Windy,30,72.1,Due Soon
+30-05-2025 13:55,EXC004,OP1003,6548.3,11.1,30,4,Not Engaged,Yes,10.3,12.83,Gravel,Foggy,35,20.7,Overdue
+25-06-2025 06:08,EXC004,OP1003,8784.5,3.6,23,44,Engaged,No,10,19.85,Concrete,Rainy,35,60.8,Recently Serviced
+30-06-2025 13:28,EXC002,OP1001,11962,4.3,20,35,Engaged,Yes,6.4,12.56,Gravel,Rainy,35,45.6,Recently Serviced
+03-07-2025 16:48,EXC004,OP1003,810.6,14.4,23,107,Not Engaged,Yes,10,1.1,Mud,Sunny,22,67.2,Recently Serviced
+28-06-2025 05:40,EXC003,OP1003,8573.3,25.5,38,83,Not Engaged,Yes,15.4,8.59,Mud,Foggy,34,82.7,Due Soon
+09-07-2025 11:12,EXC003,OP1002,12897.1,22,40,27,Engaged,Yes,18,6.14,Concrete,Foggy,40,54.8,Due Soon
+14-07-2025 16:46,EXC005,OP1001,11636.8,2.9,11,32,Engaged,Yes,18.4,13.49,Gravel,Windy,28,67.1,Due Soon
+03-07-2025 07:30,EXC003,OP1002,1792.2,24.3,44,10,Engaged,Yes,8.3,3.9,Mud,Rainy,29,37.6,Recently Serviced
+30-05-2025 07:55,EXC005,OP1002,2918.4,17.5,9,4,Not Engaged,Yes,1.6,2.28,Sand,Foggy,26,52.8,Overdue
+29-05-2025 04:18,EXC003,OP1003,10963.7,16.9,14,109,Not Engaged,Yes,9.1,7,Sand,Rainy,32,30.1,Recently Serviced
+14-07-2025 08:36,EXC003,OP1003,10956.8,6.5,1,58,Engaged,Yes,5.3,16.8,Sand,Sunny,38,34.9,Overdue
+10-07-2025 08:00,EXC003,OP1001,864,13.3,39,98,Not Engaged,Yes,19.6,2.47,Gravel,Sunny,20,75.8,Recently Serviced
+21-06-2025 05:19,EXC005,OP1002,10580,15.5,47,102,Engaged,No,14.7,15.97,Concrete,Rainy,30,65.6,Due Soon
+30-05-2025 07:13,EXC004,OP1001,13875,19.9,1,111,Engaged,No,14.5,4.85,Gravel,Rainy,40,74.2,Overdue
+15-07-2025 04:51,EXC002,OP1001,7673.7,28.9,23,11,Not Engaged,No,11.4,9.36,Mud,Rainy,16,66.8,Overdue
+02-06-2025 07:24,EXC002,OP1002,4998.4,6,47,69,Not Engaged,No,9.1,13.35,Gravel,Sunny,40,49.8,Recently Serviced
+07-06-2025 12:25,EXC002,OP1002,1210.6,10,4,103,Engaged,Yes,6.5,12.31,Gravel,Foggy,40,46,Due Soon
+27-06-2025 02:53,EXC005,OP1002,1528.1,13.7,4,55,Not Engaged,Yes,11.8,2.83,Concrete,Foggy,42,87.5,Recently Serviced
+14-06-2025 02:39,EXC004,OP1002,3975.8,2.9,20,98,Engaged,No,16.3,3.28,Mud,Windy,26,37.4,Due Soon
+04-06-2025 09:35,EXC002,OP1002,14586.1,25.3,39,21,Not Engaged,No,17,1.75,Gravel,Windy,23,60.1,Due Soon
+14-07-2025 15:08,EXC004,OP1002,14117.7,5.3,3,40,Not Engaged,Yes,10.1,0.56,Concrete,Windy,36,39.6,Overdue
+27-06-2025 14:44,EXC004,OP1001,8966,27.1,7,104,Not Engaged,Yes,15.5,11.53,Gravel,Foggy,29,39.3,Overdue
+22-05-2025 07:07,EXC002,OP1001,9037.8,23.8,22,42,Not Engaged,Yes,0.7,13.72,Gravel,Rainy,26,23.6,Recently Serviced
+04-07-2025 02:50,EXC004,OP1002,13406.8,28.6,29,89,Engaged,No,11.2,6.4,Gravel,Windy,19,33.5,Recently Serviced
+12-07-2025 18:08,EXC001,OP1003,4271.4,17.8,6,79,Engaged,Yes,9.9,1.42,Sand,Windy,20,20.6,Recently Serviced
+17-06-2025 17:29,EXC005,OP1001,3152.2,9.1,34,84,Not Engaged,No,1.9,14.46,Sand,Foggy,30,47.6,Recently Serviced
+04-06-2025 16:48,EXC003,OP1002,10168.3,18.6,25,0,Engaged,No,18,15.73,Concrete,Sunny,40,52.8,Due Soon
+31-05-2025 05:34,EXC002,OP1001,8520.8,20.6,47,66,Engaged,Yes,10.5,0.64,Gravel,Windy,23,70.2,Recently Serviced
+11-06-2025 03:43,EXC001,OP1003,2754.1,19.7,16,25,Engaged,No,16.6,2.26,Concrete,Foggy,19,85.2,Due Soon
+18-05-2025 23:25,EXC003,OP1002,4448.9,22.1,4,82,Not Engaged,No,14.1,4.2,Concrete,Foggy,34,85.5,Recently Serviced
+10-07-2025 02:52,EXC001,OP1003,6664.7,28.8,26,83,Engaged,No,14.8,4.68,Concrete,Foggy,32,61.4,Overdue
+19-06-2025 16:21,EXC002,OP1001,5975.5,25.2,41,58,Not Engaged,No,14.7,5.01,Sand,Rainy,35,25.1,Due Soon
+22-05-2025 17:23,EXC002,OP1001,2492.8,13.1,1,33,Not Engaged,No,5.2,4.53,Mud,Windy,39,46.3,Due Soon
+21-06-2025 04:21,EXC005,OP1001,5675.4,25.7,28,58,Not Engaged,Yes,19.5,13.31,Sand,Foggy,17,58.9,Overdue
+24-05-2025 00:22,EXC003,OP1002,6024,19.9,35,50,Not Engaged,No,1,12.63,Gravel,Sunny,43,36.4,Due Soon
+11-06-2025 22:31,EXC002,OP1003,13589.5,17.3,18,67,Not Engaged,Yes,6,8.93,Concrete,Windy,43,65.6,Recently Serviced
+23-06-2025 02:27,EXC004,OP1003,11367.7,12.4,50,42,Engaged,Yes,16.5,1.64,Sand,Foggy,26,43.8,Overdue
+20-06-2025 17:42,EXC002,OP1002,1246.5,19.1,10,12,Not Engaged,No,1.5,7.75,Concrete,Windy,32,33.7,Due Soon
+12-07-2025 21:26,EXC004,OP1002,8475.4,29.3,19,34,Engaged,Yes,13.7,8.61,Sand,Windy,45,36.5,Due Soon
+31-05-2025 23:45,EXC001,OP1003,12170.5,5.7,48,22,Not Engaged,No,1.6,5.39,Concrete,Foggy,35,60.2,Recently Serviced
+23-05-2025 09:47,EXC002,OP1002,9608.6,27.8,18,104,Engaged,No,3.9,17.41,Mud,Rainy,21,33.7,Recently Serviced
+30-05-2025 01:24,EXC003,OP1003,3061.4,4.1,3,75,Engaged,No,10.3,9.37,Mud,Foggy,40,89.9,Overdue
+29-05-2025 07:30,EXC001,OP1003,13979.2,23.6,7,73,Not Engaged,No,16.8,7.64,Gravel,Rainy,27,88.3,Recently Serviced
+21-05-2025 05:43,EXC003,OP1003,3107.1,18.7,44,10,Engaged,Yes,9.9,9.78,Gravel,Rainy,44,43.2,Due Soon
+24-05-2025 04:44,EXC003,OP1002,13463.8,11,46,55,Engaged,No,4.7,15.43,Concrete,Sunny,37,81.8,Due Soon
+25-06-2025 15:26,EXC003,OP1001,634.2,4.2,45,40,Not Engaged,Yes,16.2,1.83,Concrete,Foggy,40,31.2,Recently Serviced
+07-06-2025 21:09,EXC005,OP1001,12229.3,8.2,42,67,Not Engaged,Yes,18.3,17.07,Concrete,Foggy,17,75.6,Due Soon
+26-05-2025 13:35,EXC002,OP1001,10463.4,3,7,6,Not Engaged,Yes,3.7,16.17,Sand,Windy,17,87.1,Overdue
+06-06-2025 13:50,EXC001,OP1002,5381.5,22.6,48,39,Engaged,Yes,15.7,6.08,Mud,Windy,37,21.5,Due Soon
+23-06-2025 07:25,EXC003,OP1002,9721.2,28.9,41,117,Engaged,No,9.1,17.46,Mud,Rainy,18,80.1,Overdue
+02-07-2025 08:29,EXC005,OP1001,13785.3,14.3,33,5,Not Engaged,Yes,11.6,4.6,Concrete,Rainy,45,40.3,Due Soon
+03-06-2025 01:36,EXC001,OP1001,1773,18.4,19,98,Not Engaged,Yes,7.7,16.46,Sand,Foggy,38,61.9,Overdue
+09-07-2025 23:24,EXC001,OP1003,7023.7,11.2,7,84,Engaged,Yes,16.8,1.97,Sand,Rainy,36,31.9,Due Soon
+11-06-2025 20:57,EXC004,OP1001,4667.5,12.6,6,44,Not Engaged,No,7.9,13.9,Concrete,Foggy,37,41,Overdue
+02-07-2025 02:08,EXC002,OP1003,11143.2,14.9,8,5,Not Engaged,Yes,16.8,3.17,Mud,Sunny,19,66.8,Due Soon
+04-07-2025 18:57,EXC003,OP1002,12498.4,10.6,18,81,Not Engaged,No,15.1,6,Concrete,Windy,21,59.3,Due Soon
+03-06-2025 06:56,EXC004,OP1001,4049.3,21.5,19,24,Not Engaged,Yes,12.4,10.29,Gravel,Sunny,34,27,Recently Serviced
+27-06-2025 21:59,EXC005,OP1001,2662.7,29.9,30,77,Engaged,Yes,9,5.46,Mud,Rainy,39,51,Overdue
+16-06-2025 19:54,EXC001,OP1002,10266.2,21.7,38,43,Engaged,No,16,11.22,Mud,Windy,16,82.3,Due Soon
+04-06-2025 11:51,EXC005,OP1003,2689.3,22,18,39,Engaged,Yes,5.8,17.66,Sand,Foggy,41,40.7,Recently Serviced
+26-06-2025 02:11,EXC005,OP1001,8532.6,15.3,1,24,Engaged,Yes,4.2,1.52,Sand,Foggy,25,76.9,Overdue
+26-06-2025 04:00,EXC005,OP1003,8363.1,10.1,31,77,Engaged,No,6.1,3.51,Mud,Foggy,34,42,Recently Serviced
+13-06-2025 13:21,EXC005,OP1001,617.1,22.1,48,103,Not Engaged,No,7.4,14.08,Gravel,Foggy,41,89.5,Due Soon
+25-05-2025 10:31,EXC002,OP1003,9127.1,9.1,23,60,Engaged,No,6.7,12.45,Gravel,Windy,34,43.7,Overdue
+13-07-2025 06:46,EXC004,OP1003,6025.9,17,3,37,Not Engaged,Yes,17.8,18.72,Sand,Rainy,27,34.9,Recently Serviced
+12-06-2025 15:08,EXC003,OP1001,14222.7,19,39,16,Not Engaged,Yes,18.2,11.97,Sand,Windy,32,37.8,Overdue
+23-05-2025 14:10,EXC002,OP1002,6188.1,11.8,19,100,Not Engaged,No,19.7,3.18,Mud,Rainy,17,68.5,Overdue
+21-06-2025 02:15,EXC004,OP1002,13801.2,11.1,41,32,Engaged,Yes,10.4,12.28,Mud,Windy,29,26,Overdue
+12-06-2025 14:03,EXC001,OP1001,12485.9,10.5,13,51,Not Engaged,Yes,2.5,11.3,Gravel,Foggy,21,88.6,Recently Serviced
+14-06-2025 04:29,EXC001,OP1002,9866,10.8,42,85,Engaged,Yes,4.1,9.64,Mud,Rainy,33,80.7,Due Soon
+13-07-2025 14:45,EXC004,OP1001,12666,10.5,27,62,Engaged,No,13.9,2.95,Mud,Foggy,21,42.6,Recently Serviced
+04-07-2025 10:44,EXC005,OP1001,8783.6,26.6,13,48,Engaged,No,9.9,9.18,Gravel,Sunny,33,67.8,Due Soon
+06-07-2025 11:40,EXC005,OP1002,2489.2,2.4,37,64,Not Engaged,No,14.4,3.34,Gravel,Sunny,30,32,Recently Serviced
+27-06-2025 08:37,EXC002,OP1003,12794.1,28.5,44,64,Engaged,No,8.8,1.78,Sand,Rainy,25,50.6,Due Soon
+11-07-2025 19:20,EXC001,OP1003,14067.9,17.9,22,100,Not Engaged,No,9.1,14.66,Gravel,Windy,39,55.9,Recently Serviced
+24-05-2025 17:22,EXC003,OP1003,5206.9,5.3,18,31,Engaged,Yes,7.7,4.23,Concrete,Sunny,40,24.8,Recently Serviced
+22-05-2025 04:48,EXC001,OP1001,5643.4,11.6,12,31,Not Engaged,No,19.4,19.66,Mud,Foggy,24,46.5,Recently Serviced
+15-06-2025 15:45,EXC004,OP1001,14949.7,11.1,17,30,Engaged,Yes,7.4,18.57,Mud,Sunny,43,63.4,Recently Serviced
+01-07-2025 10:29,EXC005,OP1003,7214.9,24.1,10,9,Not Engaged,No,4.7,18.58,Concrete,Windy,30,87.9,Due Soon
+29-06-2025 23:36,EXC002,OP1003,1178,9.5,3,114,Not Engaged,No,1.3,8.24,Sand,Windy,44,56.9,Due Soon
+21-06-2025 10:48,EXC005,OP1001,10573.7,2.5,47,105,Engaged,Yes,8.7,5.38,Concrete,Foggy,37,39.1,Overdue
+08-06-2025 21:15,EXC005,OP1002,816.1,21.6,46,116,Not Engaged,No,17.7,15.75,Gravel,Rainy,32,81.3,Recently Serviced
+06-07-2025 08:14,EXC001,OP1001,9700.2,25.1,47,86,Not Engaged,Yes,3.3,7.52,Sand,Foggy,24,86.6,Recently Serviced
+03-06-2025 01:46,EXC003,OP1002,13839.6,4.2,39,105,Not Engaged,Yes,9.6,4.85,Sand,Sunny,41,40.1,Due Soon
+20-06-2025 03:26,EXC001,OP1001,8992.8,6,36,66,Not Engaged,No,12.3,11.87,Concrete,Foggy,25,51.1,Recently Serviced
+28-06-2025 22:38,EXC002,OP1001,3712.6,22.9,27,47,Not Engaged,No,3.6,5.43,Concrete,Sunny,18,73,Recently Serviced
+24-06-2025 02:27,EXC002,OP1002,3238.1,15.3,40,85,Not Engaged,Yes,6.4,0.86,Gravel,Foggy,33,74.6,Recently Serviced
+21-05-2025 19:03,EXC001,OP1001,10534.9,26.4,37,36,Not Engaged,No,5.9,16.96,Gravel,Rainy,40,63.7,Overdue
+23-05-2025 09:26,EXC003,OP1003,1597.9,8.3,20,109,Engaged,No,17.2,0.92,Mud,Sunny,17,60.1,Due Soon
+30-06-2025 00:30,EXC003,OP1003,14665.5,28.5,45,35,Engaged,Yes,11.4,19.32,Gravel,Sunny,27,75.4,Overdue
+24-05-2025 12:52,EXC004,OP1001,501.9,9.5,5,17,Not Engaged,Yes,1.5,2.55,Mud,Windy,43,41.4,Due Soon
+10-07-2025 11:53,EXC004,OP1003,14300.3,3.4,47,108,Engaged,Yes,19.1,8.5,Gravel,Windy,38,29.9,Recently Serviced
+02-06-2025 01:23,EXC001,OP1001,14385.5,13.5,21,72,Engaged,Yes,15.6,11.69,Gravel,Foggy,19,31.7,Overdue
+18-05-2025 05:54,EXC003,OP1003,3786.6,20.7,4,56,Not Engaged,No,16.9,19.36,Gravel,Sunny,31,31.2,Overdue
+30-06-2025 11:40,EXC001,OP1001,1280.2,19.9,26,75,Engaged,No,7,0.89,Concrete,Foggy,27,32.5,Recently Serviced
+07-07-2025 19:30,EXC004,OP1002,5432.9,5.2,46,96,Not Engaged,Yes,3,8.08,Mud,Rainy,45,72.3,Overdue
+30-06-2025 12:42,EXC003,OP1002,11315.3,28.4,36,35,Engaged,Yes,9.5,2.04,Gravel,Rainy,16,83,Due Soon
+18-05-2025 16:31,EXC004,OP1002,12382,20.3,47,91,Engaged,No,9.2,11.29,Gravel,Windy,39,67.3,Overdue
+26-05-2025 08:45,EXC004,OP1002,11694.2,13.7,36,27,Not Engaged,No,12.3,6.18,Mud,Foggy,36,52.8,Recently Serviced
+01-06-2025 00:12,EXC002,OP1001,624,13.8,18,76,Engaged,No,6.4,14.36,Sand,Foggy,16,60.5,Recently Serviced
+04-06-2025 11:35,EXC005,OP1001,14843.8,19.3,32,98,Engaged,No,6.7,1.74,Sand,Foggy,16,20.7,Overdue
+08-06-2025 17:31,EXC001,OP1002,8244.1,3.6,24,73,Engaged,Yes,2.5,8.48,Sand,Foggy,29,85.9,Recently Serviced
+10-06-2025 04:30,EXC004,OP1002,14743.9,6.2,17,56,Engaged,Yes,7.8,17.2,Concrete,Windy,36,79.3,Overdue
+29-06-2025 13:57,EXC001,OP1001,8761,21,1,18,Engaged,Yes,18.6,9.35,Concrete,Rainy,44,69.8,Due Soon
+28-05-2025 00:20,EXC004,OP1001,4071.3,23.6,13,75,Engaged,Yes,15.7,10.02,Concrete,Foggy,27,60.3,Due Soon
+19-06-2025 15:52,EXC001,OP1001,2940.9,8.3,17,108,Not Engaged,Yes,8.8,1.16,Concrete,Rainy,21,62.2,Recently Serviced
+19-05-2025 18:51,EXC005,OP1001,7794.1,16.8,46,40,Not Engaged,No,4,14.34,Gravel,Windy,29,60.9,Due Soon
+15-06-2025 09:20,EXC005,OP1001,1763.4,9.5,38,100,Engaged,No,19.6,15.04,Mud,Foggy,31,52.2,Recently Serviced
+15-07-2025 14:38,EXC002,OP1002,5983.1,5,20,50,Not Engaged,Yes,3.3,5.7,Mud,Sunny,44,56,Due Soon
+28-06-2025 05:36,EXC002,OP1002,10797.2,29.1,21,3,Not Engaged,No,9.5,3.09,Sand,Sunny,34,65.3,Overdue
+10-06-2025 02:40,EXC002,OP1002,13622.8,12,28,32,Not Engaged,No,9.9,5.49,Concrete,Rainy,34,38.7,Due Soon
+03-06-2025 22:26,EXC004,OP1003,13141.5,17.8,29,37,Engaged,No,19.4,4.4,Gravel,Foggy,31,25.9,Recently Serviced
+31-05-2025 11:24,EXC004,OP1001,12236.5,10.3,5,39,Engaged,No,12.3,1.47,Gravel,Sunny,19,39.8,Overdue
+28-06-2025 07:55,EXC002,OP1002,11029.8,23.9,14,7,Not Engaged,No,15.1,3.16,Mud,Windy,43,53.2,Recently Serviced
+12-06-2025 02:27,EXC004,OP1002,5865.6,28.5,23,66,Engaged,Yes,2.5,3.22,Concrete,Windy,24,39.2,Overdue
+18-06-2025 05:07,EXC001,OP1001,11866.4,3.8,19,88,Engaged,Yes,14,7.06,Concrete,Rainy,45,59.3,Recently Serviced
+11-06-2025 13:06,EXC001,OP1001,10489,4.8,28,110,Engaged,Yes,10.2,10,Gravel,Sunny,41,46.9,Overdue
+04-06-2025 06:44,EXC003,OP1003,9506.8,5.6,23,76,Engaged,Yes,17.5,4.15,Gravel,Rainy,27,27.7,Recently Serviced
+12-07-2025 19:09,EXC005,OP1003,4100.5,5.5,18,72,Not Engaged,No,11.5,6,Concrete,Windy,19,58.7,Due Soon
+31-05-2025 09:14,EXC005,OP1003,9068.2,12.8,33,61,Not Engaged,No,9.5,8.7,Gravel,Rainy,37,86.7,Due Soon
+02-06-2025 15:33,EXC005,OP1001,8515.3,11.7,31,68,Engaged,No,15.3,7.25,Gravel,Windy,18,41.1,Overdue
+21-06-2025 01:03,EXC001,OP1001,5455.6,6.9,23,115,Engaged,No,1.6,16.66,Mud,Rainy,32,40.8,Due Soon
+18-06-2025 03:04,EXC003,OP1002,6250.3,11.5,44,97,Not Engaged,No,7.4,19.46,Gravel,Rainy,43,46.3,Recently Serviced
+29-05-2025 14:36,EXC005,OP1003,4413.7,11.7,6,67,Not Engaged,No,8.5,5.77,Gravel,Windy,43,85.7,Recently Serviced
+19-06-2025 12:57,EXC004,OP1003,4945.9,2.3,5,32,Engaged,No,5.1,19.25,Mud,Sunny,20,82.9,Due Soon
+11-07-2025 10:55,EXC004,OP1002,600.7,26.8,27,13,Not Engaged,No,13.3,5.18,Gravel,Windy,31,58.3,Overdue
+11-06-2025 07:19,EXC001,OP1001,1017.1,7.5,5,85,Not Engaged,No,15.5,15.41,Sand,Foggy,38,27.8,Recently Serviced
+18-05-2025 17:35,EXC003,OP1002,5435.1,14.5,20,52,Engaged,No,12.9,10.34,Mud,Rainy,16,53.3,Recently Serviced
+28-05-2025 07:19,EXC005,OP1003,10624.4,17.6,1,92,Not Engaged,Yes,4.9,14.5,Sand,Windy,40,59.1,Recently Serviced
+05-06-2025 11:14,EXC003,OP1002,8484.9,26,7,93,Engaged,Yes,4.8,12.12,Sand,Windy,22,48.1,Overdue
+17-06-2025 07:05,EXC004,OP1001,10705.6,13.8,26,40,Engaged,No,10.2,10.39,Concrete,Sunny,18,28.2,Recently Serviced
+24-06-2025 21:18,EXC001,OP1002,3058,27.5,13,77,Not Engaged,Yes,3.4,10.97,Concrete,Sunny,44,66,Overdue
+01-07-2025 05:01,EXC002,OP1002,12198.2,21.8,38,76,Engaged,Yes,5.5,4.18,Mud,Rainy,20,86.6,Overdue
+06-06-2025 01:37,EXC002,OP1002,13343.1,7.9,48,76,Engaged,Yes,6.7,2.35,Gravel,Foggy,21,65,Overdue
+03-06-2025 04:22,EXC001,OP1003,10368.2,8,2,55,Not Engaged,Yes,19.3,15.72,Gravel,Rainy,20,83.9,Recently Serviced
+10-07-2025 04:40,EXC002,OP1001,6155,6.8,2,115,Not Engaged,No,9.1,2.61,Sand,Windy,37,70.8,Recently Serviced
+11-06-2025 02:49,EXC001,OP1002,5338.7,9.1,34,17,Not Engaged,No,5.6,8.49,Gravel,Windy,28,63.4,Overdue
+31-05-2025 12:17,EXC004,OP1001,6119.8,12.4,11,4,Not Engaged,Yes,5.6,11.32,Mud,Windy,17,62.5,Overdue
+20-05-2025 18:42,EXC001,OP1003,4130.8,11.7,28,13,Not Engaged,Yes,7.8,3.32,Gravel,Foggy,18,47.3,Due Soon
+11-07-2025 20:54,EXC005,OP1001,619.8,4.4,30,87,Not Engaged,No,19.5,2.41,Gravel,Foggy,29,20.4,Due Soon
+31-05-2025 06:25,EXC002,OP1002,1581.8,19.3,10,32,Not Engaged,Yes,7.5,11.82,Gravel,Sunny,26,33.7,Overdue
+25-06-2025 09:45,EXC004,OP1001,1733.9,18.5,15,88,Not Engaged,Yes,7.5,19.4,Mud,Sunny,19,49.1,Overdue
+15-07-2025 11:48,EXC002,OP1001,2415.5,28.2,44,26,Not Engaged,No,17.1,7.54,Sand,Sunny,44,83,Recently Serviced
+26-05-2025 10:11,EXC003,OP1003,8824.9,11.9,47,46,Not Engaged,Yes,6.2,3.9,Sand,Sunny,35,71.1,Due Soon
+19-05-2025 05:51,EXC004,OP1001,14473.4,26.2,22,48,Engaged,No,14.1,13.14,Gravel,Sunny,30,31.9,Due Soon
+14-07-2025 20:14,EXC004,OP1001,2698.7,25.3,13,13,Not Engaged,No,15.6,8.98,Concrete,Foggy,40,39.7,Due Soon
+28-06-2025 20:36,EXC002,OP1001,6051.6,17.1,15,64,Engaged,Yes,18.4,12.57,Gravel,Windy,30,34.7,Overdue

@@ -1,0 +1,4 @@
+flask-restful
+scikit-learn
+flask_cors
+seaborn
